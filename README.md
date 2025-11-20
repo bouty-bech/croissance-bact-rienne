@@ -17,6 +17,6 @@ scipy`
 2. Lancer Jupyter : `jupyter notebook`
 3. Ouvrir `analyse_croissance.ipynb`
 ## Auteur
-[Votre Nom] - Master Biologie
+Bechairia Boutheyna - Master Biologie
 ## Date
-[Date d'aujourd'hui]
+20 Novembre 2025
